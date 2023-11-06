@@ -1,0 +1,58 @@
+.furni {
+    border: none;
+    border-radius: 2rem;
+    position: relative;
+    display: flex;
+    z-index: 1;
+    margin-left: auto;
+    margin-top: 5rem;
+
+}
+
+.furniDots {
+    margin-left: 2.7rem;
+    display: flex;
+    position: absolute;
+
+}
+
+.back {
+    background-color: rgb(67, 92, 81);
+    height: 80vh;
+}
+
+.head1 {
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+}
+
+.para {
+    color: rgb(161, 173, 168);
+
+}
+
+.couch {
+
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: top;
+    background-image: url("../images/dots-light.svg");
+    background-repeat: no-repeat;
+
+}
+
+
+
+.navbar-nav a {
+    margin: 0px 10px 0px 10px;
+}
+
+.productSection {
+    margin-top: 80px;
+}
+
+.page3{
+    margin:100px 0px 160px 0px;
+}
